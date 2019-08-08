@@ -3,32 +3,33 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamsProvisioningProd"
+        "value": "TeamsWorkflow"
       },
       "repoUrl": {
-        "value": "https://github.com/BobGerman/TeamsProvisioning.git"
+        "value": "https://github.com/helmutsc/TeamsProvisioning.git"
       },
       "branch": {
         "value": "prod"
       },
       "TENANT": {
-        "value": "a25d4ef1-c73a-4dc1-bdb1-9a342260f216"
+        "value": "23606b60-cee0-4b37-99e5-452f08811084"
       },
       "TENANT_NAME": {
-        "value": "bgtest18"
+        "value": "Contoso"
       },
       "CLIENT_ID": {
-        "value": "3b34741d-68fc-4465-b25e-d6fba3de701d"
+        "value": "25873bb3-6b54-47cd-a84b-11dcb852b230"
       },
       "CLIENT_SECRET": {
-        "value": "@Microsoft.KeyVault(SecretUri=https://teamsprovisioning.vault.azure.net/secrets/client-secret/cd56ab45a33e47bfb0b091c75b99099a)"
+        "value": "@Microsoft.KeyVault(SecretUri=https://teamsworkflow.vault.azure.net/secrets/TeamsPwd/be0baf405a6b4fb9aa0a9e3db3a7ea1e)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/TeamsProvisioning"
+        "value": "/sites/Office365-Administration/TeamsOrdnerVerwaltung"
       },
       "TEMPLATE_LIB_NAME": {
-        "value": "Templates"
+        "value": "Teams-Ordner-Verwaltung"
       }
     }
   }
+
   
