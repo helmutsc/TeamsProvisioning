@@ -1,7 +1,7 @@
 # Provision storage and function app
 .\Deploy-AzureResourceGroup.ps1 `
     -ResourceGroupLocation westeurope `
-    -ResourceGroupName TeamsWorkflow `
+    -ResourceGroupName TeamsWorkflowProd `
     -TemplateParametersFile prod.parameters.json
 
 # Ensure storage queues are in place
