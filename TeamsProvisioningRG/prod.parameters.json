@@ -24,7 +24,7 @@
         "value": "@Microsoft.KeyVault(SecretUri=https://teamsworkflow.vault.azure.net/secrets/TeamsPwd/be0baf405a6b4fb9aa0a9e3db3a7ea1e)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/Office365-Administration/TeamsOrdnerVerwaltung"
+        "value": "/sites/Office365-Administration"
       },
       "TEMPLATE_LIB_NAME": {
         "value": "Teams-Ordner-Verwaltung"
