@@ -15,7 +15,7 @@
         "value": "23606b60-cee0-4b37-99e5-452f08811084"
       },
       "TENANT_NAME": {
-        "value": "Contoso"
+        "value": "m365x957081"
       },
       "CLIENT_ID": {
         "value": "25873bb3-6b54-47cd-a84b-11dcb852b230"
@@ -24,12 +24,11 @@
         "value": "@Microsoft.KeyVault(SecretUri=https://teamsworkflow.vault.azure.net/secrets/TeamsPwd/be0baf405a6b4fb9aa0a9e3db3a7ea1e)"
       },
       "TEMPLATE_SITE_URL": {
-        "value": "/sites/Office365-Administration/TeamsOrdnerVerwaltung"
+        "value": "/sites/Office365-Administration"
       },
       "TEMPLATE_LIB_NAME": {
         "value": "Teams-Ordner-Verwaltung"
-      }
+      } 
     }
   }
-
   
